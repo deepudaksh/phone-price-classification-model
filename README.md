@@ -31,8 +31,10 @@ These 20 features are:
 •	three_g	
 •	touch_screen	
 •	wifi
+
 Target Class:
 The price_range type is the target class and it having 4 types
+
 •	0
 •	1
 •	2
